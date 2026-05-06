@@ -1,10 +1,10 @@
 # Graduate Job Market Intelligence & Salary Prediction Platform
 
-## 📊 Project Overview
+##  Project Overview
 
 A comprehensive data analytics platform that collects and processes 10,000+ job postings from multiple sources, develops salary prediction models with 78% accuracy, and identifies in-demand skills using NLP and machine learning techniques.
 
-## 🎯 Key Achievements
+##  Key Achievements
 
 - **10,000+ job postings** collected and processed from multiple sources
 - **78% prediction accuracy** for salary forecasting
@@ -12,7 +12,7 @@ A comprehensive data analytics platform that collects and processes 10,000+ job 
 - **Market intelligence insights** for graduate job seekers
 - **Scalable ETL pipelines** for continuous data collection
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Languages**: Python, SQL
 - **Data Collection**: BeautifulSoup, Scrapy, Selenium, APIs
@@ -24,7 +24,7 @@ A comprehensive data analytics platform that collects and processes 10,000+ job 
 - **Visualization**: Tableau, Plotly, Matplotlib
 - **APIs**: Flask, FastAPI
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 Data Sources → Web Scrapers → ETL Pipeline → Data Warehouse → ML Models → Analytics Dashboard
@@ -74,7 +74,7 @@ job-market-intelligence/
 └── README.md
 ```
 
-## 🔍 Core Features
+##  Core Features
 
 ### 1. **Multi-Source Data Collection**
 
@@ -143,7 +143,7 @@ R² Score: 0.82
 - Skills correlation with salary
 - Skills gap identification
 
-## 📊 Sample Insights
+##  Sample Insights
 
 ### Top In-Demand Skills (2024)
 
@@ -165,7 +165,7 @@ Machine Learning Eng:   $110,000 - $160,000
 Data Scientist:         $95,000 - $145,000
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -253,7 +253,7 @@ python src/dashboard/app.py
 # Navigate to http://localhost:8050
 ```
 
-## 📈 Machine Learning Models
+##  Machine Learning Models
 
 ### 1. **Salary Prediction**
 
@@ -300,7 +300,7 @@ features = {
 - Hierarchical clustering for role categorization
 - Topic modeling (LDA) for skill groupings
 
-## 📊 Analytics Dashboard
+##  Analytics Dashboard
 
 **Key Visualizations:**
 - Salary distribution by role and location
@@ -310,7 +310,7 @@ features = {
 - Remote job availability
 - Education requirements analysis
 
-## 🎯 Use Cases
+##  Use Cases
 
 ### For Job Seekers
 - Salary negotiation insights
@@ -330,7 +330,7 @@ features = {
 - Skills demand forecasting
 - Graduate placement insights
 
-## 📊 Data Quality & Validation
+##  Data Quality & Validation
 
 **Quality Metrics:**
 - Data completeness: 95%+
@@ -339,7 +339,7 @@ features = {
 - Update frequency: Daily
 - Coverage: 50+ job boards
 
-## 🔧 Advanced Features
+##  Advanced Features
 
 ### Real-time Monitoring
 ```python
@@ -368,7 +368,7 @@ report.create_report(
 )
 ```
 
-## 📚 Dataset Statistics
+##  Dataset Statistics
 
 - **Total Jobs Collected**: 50,000+
 - **Unique Companies**: 2,500+
@@ -377,7 +377,7 @@ report.create_report(
 - **Time Period**: 2023-2024
 - **Update Frequency**: Daily
 
-## 🔍 API Endpoints
+##  API Endpoints
 
 ```bash
 # Get salary prediction
@@ -400,7 +400,7 @@ POST /api/recommend-jobs
 }
 ```
 
-## 📈 Performance Benchmarks
+##  Performance Benchmarks
 
 - **Data Collection**: 100 jobs/minute
 - **ETL Processing**: 10,000 jobs/hour
@@ -408,7 +408,7 @@ POST /api/recommend-jobs
 - **Dashboard Load Time**: < 2 seconds
 - **API Response Time**: < 200ms
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions welcome! Priority areas:
 - Additional data sources
@@ -416,25 +416,20 @@ Contributions welcome! Priority areas:
 - Real-time streaming pipeline
 - International market support
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 👤 Author
+##  Author
 
 **Vadlamudi Sumanth**
-- LinkedIn: [linkedin.com/in/sumanth-vadlamudi](https://www.linkedin.com/in/sumanth-vadlamudi)
 - Email: vsumanth989@gmail.com
-- Portfolio: [sumanth-vadlamudi.github.io](https://sumanth-vadlamudi.github.io)
 
-## 🙏 Acknowledgments
+
+##  Acknowledgments
 
 - Job board APIs and data providers
 - Open-source web scraping community
 - Machine learning research community
 - UMBC Data Science program
 
-## 📖 References
+##  References
 
 - [Web Scraping Best Practices](https://www.scrapinghub.com/guides/)
 - [Salary Prediction Research](https://arxiv.org/abs/...)
@@ -443,4 +438,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Note**: This project is for educational purposes. Always respect robots.txt and terms of service when scraping websites.
+
